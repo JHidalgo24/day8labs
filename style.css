@@ -1,0 +1,29 @@
+body{
+    background: deepskyblue;
+    margin:50px 0px; padding:0px;
+    text-align:center;
+    align:center;
+}
+form{
+    display: inline-block;
+    background: white;
+    width: 50%;
+    text-align: left;
+    padding: 2.5%;
+    border: black 1px solid;
+}
+table{
+    border: black solid 1px;
+}
+form section{
+    align-self: center;
+}
+h1{
+    text-align: center;
+}
+h3{
+    text-align: center;
+}
+h4{
+    text-align: center;
+}
